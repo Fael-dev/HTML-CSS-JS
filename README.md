@@ -1,4 +1,6 @@
-#Aprendendo a formatar README
+# Aprendendo a formatar README
+
 ## Subtitulo
-*Item 1
--Item 2
+
+- Item 1
+- Item 2
